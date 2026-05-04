@@ -1,5 +1,5 @@
-# SQL-Retail-Sales-Analysis
-# Retail Sales Analysis SQL Project
+# SQL-Retail-Sales-Analysis_Project
+
 
 ## Project Overview
 
